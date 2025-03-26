@@ -1,3 +1,7 @@
+# PAGLIARA--RIGHI Neo
+# M1 OIVM
+
+
 import numpy as np
 import pandas as pd
 from scipy import stats
